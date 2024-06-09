@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/language_icon"
+        android:id="@+id/navMenuSettingsId"
+        android:title="@string/nav_settings"/>
+
+    <group
+        android:id="@+id/navMenuGroupMainId">
+
+        <item
+            android:icon="@drawable/baseline_account_circle_24"
+            android:id="@+id/navMenuProfileId"
+            android:title="@string/nav_profile"/>
+
+        <item
+            android:icon="@drawable/favorite_24"
+            android:id="@+id/navMenuFavouriteId"
+            android:title="@string/nav_favourite"/>
+
+
+    </group>
+
+    <group android:id="@+id/grp2">
+        <item
+            android:icon="@drawable/feedback_24"
+            android:id="@+id/navMenuFeedbackId"
+            android:title="@string/nav_feedback"/>
+
+        <item
+            android:icon="@drawable/share_24"
+            android:id="@+id/navMenuShareId"
+            android:title="@string/nav_share"/>
+
+        <item
+            android:icon="@drawable/about_icon"
+            android:id="@+id/navMenuAboutId"
+            android:title="@string/nav_about"/>
+    </group>
+
+</menu>

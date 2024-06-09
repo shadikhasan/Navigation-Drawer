@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme with ActionBar. -->
+    <style name="Base.Theme.NavigationDrawer" parent="Theme.Material3.DayNight">
+        <!-- Customize your base theme here. -->
+        <!-- <item name="colorPrimary">@color/my_primary_color</item> -->
+        <!-- <item name="android:statusBarColor">@android:color/transparent</item> -->
+    </style>
+
+    <!-- Custom theme for HomeActivity with no ActionBar -->
+    <style name="Theme.Home.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your home activity theme here if needed. -->
+    </style>
+</resources>

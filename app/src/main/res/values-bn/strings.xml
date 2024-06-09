@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">নেভিগেশন</string>
+    <string name="nav_settings" >সেটিংস</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="nav_favourite" >প্রিয়</string>
+    <string name="nav_feedback" >প্রতিক্রিয়া</string>
+    <string name="nav_share" >শেয়ার করুন</string>
+    <string name="nav_about">সম্পর্কে</string>
+    <string name="nav_language" >ভাষা</string>
+    <string name="select_language" >ভাষা নির্বাচন করুন</string>
+    <string name="location" >লোকেশন</string>
+    <string name="category" >ক্যাটাগরি</string>
+    <string name="search_hostel" >মেস খুঁজুন</string>
+    <string name="hostel_count" > টি মেস রয়েছে</string>
+</resources>
